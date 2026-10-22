@@ -66,9 +66,9 @@ $$
 
 Where:
 
-- \(1\) is the base movement cost.
-- \(\lambda\) is the congestion weight.
-- \(N_{\text{adjacent}}\) is the number of neighboring positions occupied by other nets.
+- `1` is the base movement cost.
+- `lambda` is the congestion weight.
+- `N_adjacent` is the number of neighboring positions occupied by other nets.
 
 The current implementation uses a congestion weight of 2.
 
